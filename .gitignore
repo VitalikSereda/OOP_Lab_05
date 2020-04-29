@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Visual Studip Folders and Files
+.vs
+Debug
