@@ -1,1 +1,1 @@
-# OOP_Lab_05
+# OOP Lab #05 Virtual functions and polymorphism
